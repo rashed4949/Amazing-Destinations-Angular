@@ -1,0 +1,50 @@
+[debug] [2022-04-19T01:09:39.693Z] ----------------------------------------------------------------------
+[debug] [2022-04-19T01:09:39.695Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Rashed\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-04-19T01:09:39.696Z] CLI Version:   10.6.0
+[debug] [2022-04-19T01:09:39.696Z] Platform:      win32
+[debug] [2022-04-19T01:09:39.696Z] Node Version:  v12.18.0
+[debug] [2022-04-19T01:09:39.697Z] Time:          Tue Apr 19 2022 03:09:39 GMT+0200 (Central European Summer Time)
+[debug] [2022-04-19T01:09:39.697Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-04-19T01:09:39.780Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-04-19T01:09:39.780Z] > authorizing via signed-in user (rashedraiyan49@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  G:\ARP-B-PROJECT
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2022-04-19T01:09:57.625Z] Using project from CLI flag: amazing-destinations-e83ed
+[debug] [2022-04-19T01:09:57.628Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/amazing-destinations-e83ed [none]
+[debug] [2022-04-19T01:09:57.919Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/amazing-destinations-e83ed 200
+[debug] [2022-04-19T01:09:57.919Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/amazing-destinations-e83ed {"projectId":"amazing-destinations-e83ed","projectNumber":"871135385901","displayName":"Amazing-Destinations","name":"projects/amazing-destinations-e83ed","resources":{"hostingSite":"amazing-destinations-e83ed","realtimeDatabaseInstance":"amazing-destinations-e83ed-default-rtdb"},"state":"ACTIVE"}
+[info] i  Using project amazing-destinations-e83ed (Amazing-Destinations) 
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
+[debug] [2022-04-19T01:14:17.767Z] Error: kill ENOSYS
+    at process.kill (internal/process/per_thread.js:198:13)
+    at process.listener (C:\Users\Rashed\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\signal-exit\index.js:95:15)
+    at process.emit (events.js:315:20)
+[error] 
+[error] Error: An unexpected error has occurred.
