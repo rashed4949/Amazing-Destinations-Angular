@@ -5,13 +5,13 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyChr_3xmNZuxRiPwoAFGzAaA0vO3lCOMAY",
-    authDomain: "amazing-destinations-bb32e.firebaseapp.com",
-    projectId: "amazing-destinations-bb32e",
-    storageBucket: "amazing-destinations-bb32e.appspot.com",
-    messagingSenderId: "964516699216",
-    appId: "1:964516699216:web:4821342bdd7f9e16d6c555",
-    measurementId: "G-93R8JGXBGX"
+    apiKey: "AIzaSyDRYHxJteuWb1gmbv5WOrOPQ8vdEa7mCk4",
+    authDomain: "amazing-destinations-e83ed.firebaseapp.com",
+    projectId: "amazing-destinations-e83ed",
+    storageBucket: "amazing-destinations-e83ed.appspot.com",
+    messagingSenderId: "871135385901",
+    appId: "1:871135385901:web:4d94c7f9cf5d10c90b5ba4",
+    measurementId: "G-3399D0SDRW"
   }
 };
 
