@@ -1,6 +1,9 @@
-# ARPBPROJECT
+# Amazing Destinations
+The main idea of this project was to provide the user a complete platform where they can plan their trip with budget. Our motivation was to encourage people that they can visit any place with a small amount of money and to show the user that with a proper financial plan one can travel a lot.However, the system needs to be trained more in order to generate intelligent and more precise outputs which leaves the necessity of more data.
+Technologies:NodeJs, Angular,MongoDB
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.1.
+
+This project was generated with [Angular CLI] version 11.0.1.
 
 ## Development server
 
