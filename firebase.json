@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "./dist/ARP-B-PROJECT",
+    "public": "dist/ARP-B-PROJECT",
     "ignore": [
       "firebase.json",
       "**/.*",

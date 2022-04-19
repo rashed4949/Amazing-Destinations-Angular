@@ -8,8 +8,6 @@ import { AboutUsComponent } from './main-component/about-us/about.us.component';
 import { RouterModule, Routes } from '@angular/router';
 
 const appRoutes: Routes = [
-  { path: '', component: HomePageComponent },
-  { path: 'home-page', component: HomePageComponent },
   {
     
     path: 'aboutUs', component: AboutUsComponent,
